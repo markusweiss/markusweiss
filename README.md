@@ -5,6 +5,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/markusweiss?color=green&logo=github">
 </a>
 
+<a href="https://github.com/markusweiss?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 
 <!--
 **markusweiss/markusweiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
