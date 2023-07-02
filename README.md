@@ -5,10 +5,10 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/markusweiss?color=green&logo=github">
 </a>
 
-<div>
-  ![markusweiss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusweiss&theme=solarized-light&hide_border=false)
-  ![markusweiss's Stats](https://github-readme-stats.vercel.app/api?username=markusweiss&theme=solarized-light&show_icons=true&hide_border=false&count_private=false)
-</div>
+
+![markusweiss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusweiss&theme=solarized-light&hide_border=false) ![markusweiss's Stats](https://github-readme-stats.vercel.app/api?username=markusweiss&theme=solarized-light&show_icons=true&hide_border=false&count_private=false)
+
+
 
 <a href="https://github.com/markusweiss?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 
