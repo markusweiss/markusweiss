@@ -6,7 +6,7 @@
 </a>
 
 
-![markusweiss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusweiss&theme=solarized-light&hide_border=false) ![markusweiss's Stats](https://github-readme-stats.vercel.app/api?username=markusweiss&theme=solarized-light&show_icons=true&hide_border=false&count_private=false)
+![markusweiss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusweiss&theme=react&hide_border=true)
 
 
 
