@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+<!--
+I am Markus an experienced frontend developer with a very long professional experience. I enjoy game development in my free time and have a particular fondness for using Godot as a development environment, which I am currently learning in my free time.
+
 
 <a href="https://github.com/markusweiss?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/markusweiss?color=green&logo=github">
 </a>
+-->
 <br><br>
 
 ### Sozial Stuff
