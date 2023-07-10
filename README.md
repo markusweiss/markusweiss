@@ -6,7 +6,7 @@ I am Markus an experienced frontend developer with a very long professional expe
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/markusweiss?color=green&logo=github">
 </a>
 -->
-<br><br>
+<br>
 
 ### 👾 Sozial Stuff
 
@@ -18,6 +18,9 @@ I am Markus an experienced frontend developer with a very long professional expe
 <!--
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 -->
+
+<br>
+
 ### 🎮 Tools 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -33,16 +36,22 @@ I am Markus an experienced frontend developer with a very long professional expe
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 -->
 
+<br>
+
 ### 🛰️ Communication tools
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+<br>
 
 ### 🕹️ Versioncontrol
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<br>
 
 ### 🤖 Hosting i like and use
 
@@ -51,6 +60,7 @@ I am Markus an experienced frontend developer with a very long professional expe
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+<br>
 
 ### 👽 Languages
 
@@ -65,11 +75,9 @@ I am Markus an experienced frontend developer with a very long professional expe
 <img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Godot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="padding-right:10px;" />
           
-<br>
-<hr>
-<br>
+<br><br><br>
 
-## 🚀 Stats
+### 🚀 Stats
 
 
 ![markusweiss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=markusweiss&theme=react&hide_border=true)
@@ -81,18 +89,3 @@ I am Markus an experienced frontend developer with a very long professional expe
 
 <a href="https://github.com/markusweiss?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 
-<!--
-**markusweiss/markusweiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-😞
--->
