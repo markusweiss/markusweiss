@@ -93,5 +93,5 @@ I am Markus a frontend developer with a very long professional experience. I enj
 
 <br><br>
 
-<a href="https://github.com/markusweiss?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+<a href="https://github.com/markusweiss?tab=repositories" title="Show Repositories">🧐 Show More 🦺</a>
 
