@@ -1,11 +1,7 @@
 ### Hi there 👋, another visitor stay a while – stay forever!
 
 I am Markus a frontend developer with a very long professional experience. I enjoy game development as a hobby and have a particular fondness for using Godot <img align="top" alt="Godot" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> as a development environment, which I am currently learning in my free time.
-<!--
-<a href="https://github.com/markusweiss?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/markusweiss?color=green&logo=github">
-</a>
--->
+
 <br>
 
 ### 👾 Sozial Stuff
