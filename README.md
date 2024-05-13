@@ -54,6 +54,12 @@ I am Markus a frontend developer with a very long professional experience. I enj
 
 <br>
 
+### 🎹 Music Stuff
+
+![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=for-the-badge)
+
+<br>
+
 ### 🤖 Hosting i like and use
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
