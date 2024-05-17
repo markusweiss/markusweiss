@@ -6,7 +6,6 @@ I am Markus a frontend developer with a very long professional experience. I enj
 
 ### 👾 Sozial Stuff
 
-<!-- <a rel="external" href="https://twitter.com/markusweiss" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>-->
 <a href="https://codepen.io/markusweiss" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 <a href="https://www.xing.com/profile/Markus_Weiss6/" target="_blank"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/weissmarkus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,7 +13,6 @@ I am Markus a frontend developer with a very long professional experience. I enj
 <a href="https://gaming.code71.de/" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
 <!-- <a href="##comingsoon##" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge"></a> -->
 <!-- <a href="##comingsoon##" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge"></a> -->
-
 
 <br>
 
