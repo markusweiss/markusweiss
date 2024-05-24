@@ -60,8 +60,9 @@ I am Markus a frontend developer with a very long professional experience. I enj
 
 ### 🎹 Music Stuff
 
-![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=for-the-badge)
 ![Apple Badge](https://img.shields.io/badge/GarageBand-000?logo=apple&logoColor=fff&style=for-the-badge)
+![Audacity Badge](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=for-the-badge)
+![Korg Badge](https://img.shields.io/badge/Korg-000?logo=applemusic&logoColor=fff&style=for-the-badge)
 
 <br>
 
