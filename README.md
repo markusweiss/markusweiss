@@ -1,6 +1,6 @@
 ### Hi there 👋, another visitor stay a while – stay forever!
 
-I'm Markus, I work mainly as a front-end developer with a lot of professional experience. I also support as a project manager. Personally, I enjoy game development as a hobby and have a particular fondness for using Godot <img align="top" alt="Godot" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> as a development environment, which I am currently learning in my free time.
+I'm Markus, I work mainly as a front-end developer with a long time of professional experience. I also support as a project manager. Personally, I enjoy game development as a hobby and have a particular fondness for using Godot <img align="top" alt="Godot" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> as a development environment, which I am currently learning in my free time.
 
 <br>
 
