@@ -9,7 +9,6 @@ I'm Markus, I work mainly as a front-end developer with a long time of professio
 ### 👾 Sozial Stuff
 
 <a href="https://www.code71.de/" target="_blank"><img src="https://img.shields.io/badge/Homepage-009BD5?style=for-the-badge&logo=homepage&logoColor=fff"></a>
-
 <a href="https://codepen.io/markusweiss" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 <a href="https://www.xing.com/profile/Markus_Weiss6/" target="_blank"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/weissmarkus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
