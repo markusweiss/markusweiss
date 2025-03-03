@@ -33,6 +33,7 @@ I'm Markus, I work mainly as a front-end developer with a long time of professio
 ![Homebrew Badge](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=for-the-badge)
 <!--
 ![Looker Badge](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=fff&style=for-the-badge)
+![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=for-the-badge)
 -->
 <br>
 
