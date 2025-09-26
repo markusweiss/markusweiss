@@ -46,8 +46,9 @@ I'm Markus, I work mainly as a front-end developer with a long time of professio
 ![Marp](https://img.shields.io/badge/Marp-0078d7?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCA0MCIgY2xhc3M9ImJsb2NrIGgtMTYgdy0xNiBwLTIgbWQ6aC0yMCBtZDp3LTIwIG1kOnAtMyI+PHBhdGggZmlsbD0iIzAwOWJkYSIgZD0iTTQwIDAgMCA0MGgyMGwyMC0yMFYweiI+PC9wYXRoPjxwYXRoIGZpbGw9IiM3OGM1ZTkiIGQ9Ik00MCAyMHYyMGgyMFYwTDQwIDIweiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMwMDdhYWQiIGQ9Ik0yMCA0MGgyMFYyMEwyMCA0MHoiPjwvcGF0aD48L3N2Zz4=&logoColor=fff&style=for-the-badge)
 <!--
 ![Asana Badge](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge)
-![codecks](https://img.shields.io/badge/codecks-704d9e?logo=cloudera&logoColor=fff&style=for-the-badge)
 -->
+![codecks](https://img.shields.io/badge/codecks-704d9e?logo=cloudera&logoColor=fff&style=for-the-badge)
+
 <br>
 
 ### 🛰️ Communication tools
