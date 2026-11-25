@@ -107,6 +107,7 @@ I'm Markus, I work mainly as a front-end developer with a long time of professio
 ![KaboomJS](https://img.shields.io/badge/KaboomJS-%23CB3837.svg?style=for-the-badge&logo=KaboomJS&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge))
 
 <!-- ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge) -->
           
