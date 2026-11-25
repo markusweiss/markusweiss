@@ -29,6 +29,7 @@ I'm Markus, I work mainly as a front-end developer with a long time of professio
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)
+![Mistral AI Badge](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistralai&logoColor=fff&style=flat)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![Homebrew Badge](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff&style=for-the-badge)
